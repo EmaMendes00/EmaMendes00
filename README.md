@@ -1,4 +1,5 @@
-![/header.png] (header.png)
+![Intro Image](header.png)
+
 
 <!--
 **EmaMendes00/EmaMendes00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
